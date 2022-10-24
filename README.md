@@ -20,6 +20,7 @@ Pensando nisso, este repositório tem por objetivo ajudar os desenvolvedores ini
 - [x] Javascript
 - [x] ReactJs
 - [X] Firebase  
+- [X] React Hooks  
 
 ### Rodando a Aplicação
 
