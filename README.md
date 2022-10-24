@@ -7,13 +7,11 @@ Este projeto tem por finalidade desenvolver a prática e a habilidade de trabalh
 <img src="https://user-images.githubusercontent.com/54417643/197594876-eeda92e7-61e8-4b76-abee-6655faccc401.png"
 </div>
 
-<div align="start">
 <!--ts-->
 * [Sobre](#sobre)
 * [Tabela de Tecnologias](#tabela-de-tecnologia)
 * [instalacao](#instalacao)
 <!--te--> 
-</div>  
 <!-- ![back](https://user-images.githubusercontent.com/54417643/197594876-eeda92e7-61e8-4b76-abee-6655faccc401.png) -->
 # Sobre
 <p>No início de carreira de todo dev, é de extrema immportância que o mesmo consiga ter em seu portfólio, um sistema de autenticação.
