@@ -3,7 +3,7 @@
 Este projeto tem por finalidade desenvolver a prática e a habilidade de trabalhar com os React Hooks e o conceito de Context
 
 <p align="center">Authenticated with Firebase</p>
-<div align="center">
+<div align="start">
 <img src="https://user-images.githubusercontent.com/54417643/197594876-eeda92e7-61e8-4b76-abee-6655faccc401.png"
 </div>
 
