@@ -4,8 +4,7 @@ Este projeto tem por finalidade desenvolver a prática e a habilidade de trabalh
 
 <p align="center">Authenticated with Firebase</p>
 <div align="center">
-![image](https://user-images.githubusercontent.com/54417643/197593220-2ed6fd84-b12f-4182-a8b8-d414466448c2.png)
-
+<img src="https://user-images.githubusercontent.com/54417643/197594876-eeda92e7-61e8-4b76-abee-6655faccc401.png"
 </div>
 
 
