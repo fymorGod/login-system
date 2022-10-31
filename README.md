@@ -8,7 +8,7 @@ Este projeto tem por finalidade desenvolver a prática e a habilidade de trabalh
 </div>
 
 <!--ts-->
-* [Sobre](#sobre)
+* [Sobre](#Sobre)
 * [Tabela de Tecnologias](#tabela-de-tecnologia)
 * [instalacao](#instalacao)
 <!--te--> 
@@ -25,7 +25,8 @@ Pensando nisso, este repositório tem por objetivo ajudar os desenvolvedores ini
 - [X] Firebase  
 - [X] React Hooks  
 
-### Rodando a Aplicação
+# Instalação
+
 
 ```bash
 #Clone este repositório
