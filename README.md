@@ -10,7 +10,7 @@ Este projeto tem por finalidade desenvolver a prática e a habilidade de trabalh
 <!--ts-->
 * [Sobre](#Sobre)
 * [Tabela de Tecnologias](#tabela-de-tecnologia)
-* [instalacao](#instalacao)
+* [instalacao](#Instalacao)
 <!--te--> 
 <!-- ![back](https://user-images.githubusercontent.com/54417643/197594876-eeda92e7-61e8-4b76-abee-6655faccc401.png) -->
 # Sobre
